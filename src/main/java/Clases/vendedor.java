@@ -13,7 +13,7 @@ import java.io.FileOutputStream;
 import java.io.PrintWriter;
 /**
  *
- * @author byron
+ * @author stephanie alex byron
  */
 public class vendedor extends usuario{
 
