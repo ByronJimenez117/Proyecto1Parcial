@@ -13,7 +13,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Stephanie
+ * @author Stephanie Byron Alex
  */
 public class Oferta {
     private Vehiculo vehiculo;
