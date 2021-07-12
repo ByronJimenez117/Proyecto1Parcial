@@ -9,7 +9,7 @@ import java.util.Objects;
 
 /**
  *
- * @author byron
+ * @author alex stephanie byron
  */
 public class usuario {
     protected String nombres;
