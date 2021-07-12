@@ -7,7 +7,7 @@ package Clases;
 
 /**
  *
- * @author byron
+ * @author stephanie byron alex
  */
 public class comprador extends usuario  {
 
