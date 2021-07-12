@@ -15,7 +15,7 @@ import java.io.PrintWriter;
 import static java.lang.Double.parseDouble;
 /**
  *
- * @author byron
+ * @author byron stephanie alex
  */
 public class Vehiculo {
         private String tipo;
